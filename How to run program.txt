@@ -1,0 +1,4 @@
+For Server Just compile with javac OnlineChess.java
+Then java OnlineChess port number which might be in between 1-65000
+For Client same as server compile process 
+for run use java OnlineChess ip address port number 
